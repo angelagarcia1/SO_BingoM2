@@ -1,0 +1,92 @@
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\bin\Debug\Cliente1.exe.config
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\bin\Debug\Cliente1.exe
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\bin\Debug\Cliente1.pdb
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\obj\Debug\Cliente1.csprojAssemblyReference.cache
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\obj\Debug\Cliente1.Consultas.resources
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\obj\Debug\Cliente1.exe
+C:\Users\Usuario-App\source\repos\Loggin\Cliente1\obj\Debug\Cliente1.pdb
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.exe
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.pdb
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\bin\Debug\Cliente1.exe.config
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\bin\Debug\Cliente1.exe
+C:\Users\Andrea Crespo\Documents\UNIVERSIDAD\2B\SO\VERSION1\Loggin\Cliente1\bin\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\bin\Debug\Cliente1.exe.config
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\bin\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\bin\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION1\Loggin\Cliente1\obj\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\bin\Debug\Cliente1.exe.config
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\bin\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\bin\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\obj\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION2\VERSION1\Cliente\Cliente1\obj\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\bin\Debug\Cliente1.exe.config
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\bin\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\bin\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\obj\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION2\VERSION2\Cliente\Cliente1\obj\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\bin\Debug\Cliente1.exe.config
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\bin\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\bin\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\obj\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION3\VERSION3\Cliente\Cliente1\obj\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\bin\Debug\Cliente1.exe.config
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\bin\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\bin\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\obj\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION4\VERSION4\Cliente\Cliente1\obj\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\bin\Debug\Cliente1.exe.config
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\bin\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\bin\Debug\Cliente1.pdb
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.exe
+C:\UNIVERSIDAD\share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.pdb
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\bin\Debug\Cliente1.exe.config
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\bin\Debug\Cliente1.exe
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\bin\Debug\Cliente1.pdb
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.csproj.SuggestedBindingRedirects.cache
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.Iniciar.resources
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.Properties.Resources.resources
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.csproj.GenerateResource.cache
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.exe
+C:\Share\VERSION5\VERSION5\Cliente\Cliente1\obj\Debug\Cliente1.pdb
